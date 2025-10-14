@@ -1,4 +1,4 @@
-name: Build ipk for HomeProxy
+name: Build tagipk for HomeProxy
 
 on:
   push:
