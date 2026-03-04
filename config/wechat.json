@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "weixin.qq.com",
+        "wx.qq.com",
+        "wechat.com",
+        "qpic.cn",
+        "wxapp.tc.qq.com",
+        "wxapp.gtimg.com",
+        "weixin110.qq.com",
+        "mp.weixin.qq.com",
+        "open.weixin.qq.com",
+        "res.wx.qq.com",
+        "servicewechat.com",
+        "tenpay.com",
+        "gtimg.com"
+      ]
+    }
+  ]
+}
